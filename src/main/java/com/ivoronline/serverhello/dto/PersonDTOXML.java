@@ -6,8 +6,8 @@ import javax.xml.bind.annotation.XmlRootElement;   //For XML
 public class PersonDTOXML {
 
   //PROPERTIES
-  @XmlAttribute public Integer id;
-  @XmlAttribute public String  name;
-  @XmlAttribute public Integer age;
+  @XmlAttribute public Integer id;    //Serialize Property into XML Attribute
+                public String  name;  //Serialize Property into XML Child Element (default)
+                public Integer age;   //Serialize Property into XML Child Element (default)
 
 }

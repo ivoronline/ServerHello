@@ -1,1 +1,1 @@
-<PersonDTOXML id="1" name="John" age="20" />
+<PersonDTOXML id="1"> <name>John</name>	<age>20</age> </PersonDTOXML>

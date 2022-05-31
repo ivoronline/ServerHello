@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d61b-32e8-495b-954b-6eb8bba28916" name="Default Changelist" comment="" />
+    <list default="true" id="9f31d61b-32e8-495b-954b-6eb8bba28916" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivoronline/serverhello/dto/PersonDTOXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivoronline/serverhello/dto/PersonDTOXML.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +42,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -78,7 +84,7 @@
       <workItem from="1653310834334" duration="11004000" />
       <workItem from="1653647108125" duration="8000" />
       <workItem from="1653984578548" duration="138000" />
-      <workItem from="1653984748816" duration="15000" />
+      <workItem from="1653984748816" duration="1904000" />
     </task>
     <servers />
   </component>
