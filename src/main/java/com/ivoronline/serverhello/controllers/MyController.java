@@ -89,7 +89,7 @@ public class MyController {
   //================================================================
   // RECEIVE BODY XML
   //================================================================
-  @RequestMapping(value = "ReceiveBodyXML", produces = { "application/JSON" })
+  @RequestMapping(value = "ReceiveBodyXML", produces = { "application/XML" })
   public PersonDTOXML receiveBodyXML() {
 
     //CREATE INSTANCE

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d61b-32e8-495b-954b-6eb8bba28916" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9f31d61b-32e8-495b-954b-6eb8bba28916" name="Default Changelist" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivoronline/serverhello/dto/PersonDTOXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivoronline/serverhello/dto/PersonDTOXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivoronline/serverhello/controllers/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivoronline/serverhello/controllers/MyController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +83,16 @@
       <workItem from="1653310834334" duration="11004000" />
       <workItem from="1653647108125" duration="8000" />
       <workItem from="1653984578548" duration="138000" />
-      <workItem from="1653984748816" duration="1904000" />
+      <workItem from="1653984748816" duration="3148000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1653987032227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653987032229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +114,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
